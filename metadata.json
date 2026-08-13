@@ -1,0 +1,6 @@
+{
+  "name": "Karnavati BillBook",
+  "description": "Digital udhari khata management app for shopkeepers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
